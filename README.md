@@ -1,7 +1,7 @@
-# Sensible Userbot
+# Ti-fi MiracRobo
 
 <p align="center">
-<img src="SENSIBLE.jpg" alt="Sensible USERBOT">
+<img src="img1.jpg" alt="Sensible USERBOT">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
