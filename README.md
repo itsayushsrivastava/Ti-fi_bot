@@ -1,7 +1,7 @@
 # Ti-fi MiracRobo
 
 <p align="center">
-<img src=" /img1.jpg " alt="Ti-fi MiracRobo">
+<img src="img1.jpg"alt="Ti-fi MiracRobo">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
