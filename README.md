@@ -28,10 +28,9 @@ Take Sting session from Replit
 
 🔺 How to Deploy your UserBot to Heroku 🔺
 
-So I have Updated This Things For Api Id Just GO To This Bot Click There t.me/ceoappid_bot
-1. Take APP ID AND HASH FROM Click There t.me/ceoappid_bot
-
-2. For String Session [👉Click here 👈](https://sensibleuserbotstringsession.spandey112.repl.run/)
+So I have Updated This Things For Api Id Just 
+1. Take APP ID AND HASH 
+2. For String Session [👉Click here 👈](https://repl.it/@guruaaisha/string#main.py.repl.run/)
 2.1 Wait For 2 Mins Until It Asks API ID 
 2.2 When It Ask Api Id And Hash Go To That Bot Which I Gived In Step 1 
 2.3 Then After That Enter Your Phone Number 
